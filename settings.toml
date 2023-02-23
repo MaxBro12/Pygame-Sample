@@ -1,0 +1,12 @@
+[MAIN]
+os = ""
+debug = true
+
+[GAME]
+fullscreen = false
+width = 900
+height = 700
+resizable = true
+vsync = true
+FPS = 30
+volume = 0

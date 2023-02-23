@@ -12,6 +12,7 @@ game_config = {
         'height': 700,
         'resizable': True,
         'vsync': True,
+        'FPS': 30,
         'volume': 0,
     },
 }
